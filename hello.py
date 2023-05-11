@@ -14,3 +14,5 @@ print(f"{first_num} - {second_num} = {diff}")
 print(f"{first_num} * {second_num} = {prod}")
 print(f"{first_num} // {second_num} = {floor_div}")
 print(f"{first_num} % {second_num} = {mod}")
+
+print("\nCALCULATOR BY: VASSILI INACAY")
